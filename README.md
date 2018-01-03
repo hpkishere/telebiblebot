@@ -7,6 +7,8 @@ A telegram bot with the following features:
 
 My first personal project by learning Python on the fly. Had loads of fun. Feel free to fork for your own use!
 
+This bot is already hosted on my personal server. Search @telebiblebot on telegram to use it!
+
 ### Prerequisites
 
 * Python3
@@ -19,7 +21,7 @@ My first personal project by learning Python on the fly. Had loads of fun. Feel 
 Clone the repo
 
 ```
-$ git clone https://github.com/hpkishere/pythonbot.git
+$ git clone https://github.com/hpkishere/telebiblebot.git
 ```
 
 Add in your token from @BotFather in src/token_secret.py

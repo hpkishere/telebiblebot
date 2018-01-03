@@ -32,6 +32,7 @@ def main():
     github_handler = CommandHandler('github', github)
 
     dispatcher.add_handler(start_handler)
+    dispatcher.add_handler(github_handler)
     dispatcher.add_handler(remindon_handler)
     dispatcher.add_handler(remindoff_handler)
     dispatcher.add_handler(retrieve_handler)
