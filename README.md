@@ -1,4 +1,4 @@
-# pythonbot
+# telebiblebot
 
 A telegram bot with the following features:
 * Retrieve complete bible books/chapters/verses
@@ -22,7 +22,7 @@ Clone the repo
 $ git clone https://github.com/hpkishere/pythonbot.git
 ```
 
-Add in your token from @BotFather
+Add in your token from @BotFather in src/token_secret.py
 
 ```
 $ cd src; vim token_secret.py
